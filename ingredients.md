@@ -1,6 +1,6 @@
 Ingredients:
-One tablespoon of unsalted butter
-One small diced tomato.
-One sliced green onion.
-Two eggs.
+1 tablespoon of unsalted butter
+1 small diced tomato.
+1 sliced green onion.
+2 eggs.
 Salt and pepper to taste.
