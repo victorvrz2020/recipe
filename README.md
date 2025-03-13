@@ -5,3 +5,5 @@
 2. **Best dish** in the **world** for breakfast.
 4. **Last line** changed *locally*.
 ### This is a REMOTE change :O
+
+![Scrambled Eggs are delicious!](recipe.png "Scramnled eggs")
